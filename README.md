@@ -14,7 +14,7 @@ It provisions a secure, monitored Azure environment using **Terraform (Infrastru
 
 ## 🏗 Architecture
 
-![Architecture](diagrams/architecture.png)
+![Architecture](screenshots/Architecture Diagram.png)
 
 ## 🧰 Technologies Used
 
